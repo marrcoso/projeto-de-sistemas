@@ -1,9 +1,6 @@
 
 package pedido;
 
-import java.util.Scanner;
-
-
 public class Pedido {
     private int valor;
     private Desconto desconto;
